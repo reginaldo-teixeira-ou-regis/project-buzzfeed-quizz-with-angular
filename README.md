@@ -1,4 +1,16 @@
-# Project Buzz feed Quizz With Angular
+ # :computer:  Project Buzz feed Quizz With Angular
+
+## :rocket: About the project
+
+Project developed in the Bootcamp Angular, by [DIO](https://web.digitalinnovation.one/track/everis-fullstack-developer), which consists of a Quizz Buzzfeed clone, involving the content studied during Bootcamp.
+
+
+:hammer_and_wrench: **Technologies Used**
+* HTML5
+* CSS3
+* TypeScript
+* Angular
+      
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
